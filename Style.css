@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #e6f0ff;
+}
+
+.hero {
+  background: linear-gradient(to right, #79c2ff, #0096ff);
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+.accordion-button {
+  font-weight: 500;
+}
+
+img.img-thumbnail {
+  display: block;
+  margin: 10px auto;
+  border: 2px solid #ccc;
+}
